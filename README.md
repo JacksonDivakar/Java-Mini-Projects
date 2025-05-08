@@ -54,4 +54,4 @@ A console-based flight booking manager featuring:
 1. Clone the repo or copy the `.java` files into your IDE
 2. Compile using:
    ```bash
-   javac TrainBooking.java   # or TaxiBooking.java / FlightBooking.java
+   javac train_reservation_system.java   # or TaxiBooking.java / FlightBooking.java
