@@ -35,7 +35,7 @@ A console-based flight booking manager featuring:
 
 - **Language:** Java
 - **Paradigms:** OOP, Inheritance, Exception Handling
-- **Data Handling:** File I/O (for persistence), Collections
+- **Data Handling:**  Collections
 - **User Interface:** CLI-based (Scanner, Menu-driven systems)
 
 ---
